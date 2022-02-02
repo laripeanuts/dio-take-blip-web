@@ -1,0 +1,12 @@
+html {
+    background: gray;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background: rgb(74, 8, 87);
+    padding: 20px;
+    text-align: center;
+    align-self: center;
+}
