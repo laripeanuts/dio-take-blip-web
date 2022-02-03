@@ -1,0 +1,23 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    background: rgb(37, 37, 37);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#header {
+    background: rgb(52, 0, 119);
+    text-align: center;
+    padding: 1px;
+    margin-bottom: 15px;
+}
+
+div#app{
+    padding: 5px;
+}
+
+button {
+    margin: 20px;
+}
