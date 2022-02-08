@@ -10,8 +10,10 @@ Visual Studio Code como editor.
 ### Random Cat Images com API
 
   - Uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão. Utilizado a API `https://thatcopy.pw/catapi/rest` para fazer as chamadas com o método `fetch()`;
-
-![catAPI](..images/api-cats.gif)
+  - 
+<p align="center">
+  <img width="300" height="180" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/api-cats.gif">
+</p>
 
 ### Calculadora
   - Calculadora usando o alert e promt. Possui seis tipos de operações 
