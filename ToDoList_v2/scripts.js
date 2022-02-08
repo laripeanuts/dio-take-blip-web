@@ -39,13 +39,13 @@ function renderLista() {
         linkElementEdit.appendChild(linkTextEdit);
         espacoElement.appendChild(espacoText);
         todoElement.appendChild(todoText);
-        
+
         todoElement.appendChild(linkElement);
         todoElement.appendChild(espacoText)
         todoElement.appendChild(linkElementEdit);
-        
+
         listElement.appendChild(todoElement);
-    }
+}
 }
         
 renderLista();
