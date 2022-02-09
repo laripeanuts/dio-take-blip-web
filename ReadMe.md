@@ -7,6 +7,14 @@
 
 Visual Studio Code como editor.
 
+### Atividade: Light Mode/Dark Mode
+
+- Estrutura básica de projeto front-end (HTML, CSS e JS) com um botão de switch que alterna para o dark mode.
+
+<p align="center">
+  <img width="500" height="200" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/darkmode.png">
+</p>
+
 ### Random Cat Images com API
 
   - Uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão. Utilizado a API `https://thatcopy.pw/catapi/rest` para fazer as chamadas com o método `fetch()`;

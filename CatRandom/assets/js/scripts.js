@@ -12,11 +12,11 @@ const getCats = async () => {
 };
 
 const loadImg = async () => {
-	const img = document.getElementsByTagName('img')[0];
-	img.src = await getCats();
+  const img = document.getElementsByTagName("img")[0];
+  img.src = await getCats();
 };
 
-const btn = document.getElementById('change-cat');
+const btn = document.getElementById("change-cat");
 btn.addEventListener("click", loadImg);
 
 loadImg();
