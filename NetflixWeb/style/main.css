@@ -1,0 +1,121 @@
+:root {
+    --vermelha: #E50914;
+    --preta: #141414;
+    --branca: #AAAAAA;
+}
+
+@import url('http://fonts.cdnfonts.com/css/netflix-font');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ELEMENTOS PRINCIPAIS */
+body {
+    background: var(--preta);
+    font-family: 'Netflix Font', sans-serif;
+    color: white;
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.container {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/* HEADER */
+h2.Logo {
+    color: var(--vermelha);
+    font-size: 45px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #AAAAAA;
+    margin-right: 20px;
+}
+
+header nav a:hover {
+    color: #efffff;
+}
+
+/* FILME PRINCIPAL */
+.filme-principal {
+    font-size:16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../assets/capa-orange.jpg');
+
+    height:500px;
+    background-size:cover;
+ 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
+
+.titulo {
+    margin-top: 15%;
+    font-size: 35px;
+}
+
+.button {
+    margin-top: 10px;
+    padding: 15px 30px;
+    margin-right: 20px;
+    color: #AAAAAA;
+    border: none;
+    background-color: rgba(0,0,0,.50);
+    font-size: 12px;
+    font-weight: bold;
+    transition: .5s ease all;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+.button:hover {
+    background-color: rgba(255,255,255,.80);
+    color: black;
+}
+
+i {
+    margin-right: 10px;
+
+}
+
+.sub-titulo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* CAROUSEL */
+.box-filmes{
+    width: 100%;
+    height: 100%;
+}
+
+FOOTER {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: grey;
+    font-size: 12px
+}
