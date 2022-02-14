@@ -9,11 +9,18 @@ Visual Studio Code como editor.
 
 ### Atividade: Netflix Web Page
 
-- Clone responsivo da home page da Netflix.
+- Clone responsivo da home page da Netflix com carrousel em jQuery.
 
 <p align="center">
-  <img width="500" height="400" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/netflix01.png">
+  <img width="450" height="220" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/netflix01.png">
+  <img width="450" height="220" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/netflix02.png">
 </p>
+<p align="center">
+  <img width="450" height="220" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/netflix03.png">
+  <img width="100" height="220" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/netflix04.png">
+  <img width="100" height="220" src="https://github.com/laripeanuts/dio-take-blip-web/blob/master/images/netflix05.png">
+</p>
+
 ### Atividade: Light Mode/Dark Mode
 
 - Estrutura básica de projeto front-end (HTML, CSS e JS) com um botão de switch que alterna para o dark mode.
