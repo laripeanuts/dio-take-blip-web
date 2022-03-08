@@ -1,11 +1,21 @@
-# Exercicios 
-## Scripts e exercicios da trilha Take Blip Web Development. Utilizando:
+<h1 align="center"><a href="https://web.dio.me">Digital Innovation One</a></h1>
 
-- Javascrip
-- HTML
-- CSS
+## Exercicios 
+#### 👨‍💻 Scripts e exercicios da trilha Take Blip Web Development. Utilizando:
 
-Visual Studio Code como editor.
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [jQuery](https://jquery.com/)
+
+Tools: VSCode
+
+### Atividade: Resgate Game
+
+- Criando um jogo simples de resgaste. 
+<p align="center">
+  <img width="400" height="230" src="./images/gamenave_original3.png"><img width="400" height="230" src="./images/gamenave_original2.png">
+</p>
 
 ### Atividade: Netflix Web Page
 
